@@ -1,0 +1,119 @@
+Added Component: Designator=D1(EAST1616RGBA2)
+Added Component: Designator=R1(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RMCF0805JT510R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1508X50N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RNCP0603FTD150R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-3GEYJ910V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-3GEYJ910V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2012X60N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "RNCP0805FTD10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RNCP0805FTD10K0/RNCP0805FTD10K0CT-ND/2240601?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RNCP0805FTD10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 Stackpole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RNCP0805FTD10K0/Stackpole%20Electronics%20Inc/view-part/3229162/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R300(RESC2012X60N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "RNCP0805FTD10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RNCP0805FTD10K0/RNCP0805FTD10K0CT-ND/2240601?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RNCP0805FTD10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 Stackpole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RNCP0805FTD10K0/Stackpole%20Electronics%20Inc/view-part/3229162/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R301(RESC2012X60N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "RNCP0805FTD10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RNCP0805FTD10K0/RNCP0805FTD10K0CT-ND/2240601?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RNCP0805FTD10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 Stackpole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RNCP0805FTD10K0/Stackpole%20Electronics%20Inc/view-part/3229162/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT95P245X110-3N)
+Added Component: Designator=U(SOP65P640X120-24N)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=1237891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/TCA9535PWR/Texas%20Instruments/view-part/1237891/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1237891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1237891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCA9535PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-24 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TCA9535PWR/Texas%20Instruments/view-part/1237891/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=1237891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U-2
+Added Pin To Net: NetName=GND Pin=U-3
+Added Pin To Net: NetName=GND Pin=U-12
+Added Pin To Net: NetName=GND Pin=U-21
+Added Pin To Net: NetName=+5 Pin=D1-3
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=+5 Pin=R5-2
+Added Pin To Net: NetName=+5 Pin=U-24
+Added Pin To Net: NetName=+5 Pin=U1-1
+Added Net: Name=+5
+Added Pin To Net: NetName=3.3V Pin=J301-1
+Added Pin To Net: NetName=3.3V Pin=J301-2
+Added Pin To Net: NetName=3.3V Pin=J301-3
+Added Pin To Net: NetName=3.3V Pin=R300-2
+Added Pin To Net: NetName=3.3V Pin=R301-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=BD1 Pin=D1-4
+Added Pin To Net: NetName=BD1 Pin=R4-2
+Added Net: Name=BD1
+Added Pin To Net: NetName=GD1 Pin=D1-2
+Added Pin To Net: NetName=GD1 Pin=R3-2
+Added Net: Name=GD1
+Added Pin To Net: NetName=HE_Q Pin=R1-1
+Added Pin To Net: NetName=HE_Q Pin=U-20
+Added Pin To Net: NetName=HE_Q Pin=U1-2
+Added Net: Name=HE_Q
+Added Pin To Net: NetName=I2C_SCL Pin=J302-1
+Added Pin To Net: NetName=I2C_SCL Pin=R300-1
+Added Pin To Net: NetName=I2C_SCL Pin=U-22
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=J302-2
+Added Pin To Net: NetName=I2C_SDA Pin=R301-1
+Added Pin To Net: NetName=I2C_SDA Pin=U-23
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=IO_B Pin=R4-1
+Added Pin To Net: NetName=IO_B Pin=U-4
+Added Net: Name=IO_B
+Added Pin To Net: NetName=IO_G Pin=R3-1
+Added Pin To Net: NetName=IO_G Pin=U-5
+Added Net: Name=IO_G
+Added Pin To Net: NetName=IO_INT Pin=R5-1
+Added Pin To Net: NetName=IO_INT Pin=U-1
+Added Net: Name=IO_INT
+Added Pin To Net: NetName=IO_R Pin=R2-1
+Added Pin To Net: NetName=IO_R Pin=U-6
+Added Net: Name=IO_R
+Added Pin To Net: NetName=RD1 Pin=D1-1
+Added Pin To Net: NetName=RD1 Pin=R2-2
+Added Net: Name=RD1
+Added Pin To Net: NetName=XRES_N Pin=J302-5
+Added Net: Name=XRES_N
