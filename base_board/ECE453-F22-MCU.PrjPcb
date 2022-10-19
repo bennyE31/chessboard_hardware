@@ -49,30 +49,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=ECE453_Power.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AJLOTHHG
-
-[Document2]
 DocumentPath=01-Revision_History_and_Contents.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -82,31 +65,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUCNXNPW
 
-[Document3]
-DocumentPath=02-Mezzanine.SchDoc
+[Document2]
+DocumentPath=02-MCU.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CFRIXDBF
-
-[Document4]
-DocumentPath=03_Mechanicals.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=300
+AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=8
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -114,10 +80,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KOGOYUEA
+DocumentUniqueId=VTCYPMVW
 
-[Document5]
-DocumentPath=ECE453_Custom.PcbDoc
+[Document3]
+DocumentPath=base-board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RQYQPPRE
 
-[Document6]
+[Document4]
 DocumentPath=ECE453.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,8 +116,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
-DocumentPath=ECE453-F22-Power.SCHLIB
+[Document5]
+DocumentPath=04-ModuleControls.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JGUVYSGR
+
+[Document6]
+DocumentPath=base-board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -165,7 +148,164 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NXOUKLHN
+DocumentUniqueId=MWBVIIJF
+
+[Document7]
+DocumentPath=base-board.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CIAWDGPG
+
+[Document8]
+DocumentPath=..\chess_module\chess_module.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BMRJOOON
+
+[Document9]
+DocumentPath=..\chess_module\chess_module.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FNMWPANP
+
+[Document10]
+DocumentPath=05-ModuleControls.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IERUFLDS
+
+[Document11]
+DocumentPath=06-ModuleControls.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JPIQWAEJ
+
+[Document12]
+DocumentPath=07-ModuleControls.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WEQQWMCK
+
+[Document13]
+DocumentPath=08-Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ESZZVSNP
+
+[Document14]
+DocumentPath=09-Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WHZGHANM
+
+[Document15]
+DocumentPath=10-Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AMYSXJBX
+
+[GeneratedDocument1]
+DocumentPath=Output\BOM\Bill of Materials-ECE453-F22-MCU.xlsx
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=..\Altium Base Structure\Libraries\*.*
@@ -223,7 +363,7 @@ OutputDir=Output
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Bluebeam PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -325,18 +465,18 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
 OutputDocumentPath22=
 OutputVariantName22=
 OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
 OutputDocumentPath23=
 OutputVariantName23=
 OutputDefault23=0
@@ -344,7 +484,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Bluebeam PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -370,7 +510,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
-OutputVariantName1=[No Variations]
+OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration1_Name1=OutputConfigurationParameter1
@@ -412,13 +552,13 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType5=PCBLIB Print
 OutputName5=PCBLIB Prints
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=Report Print
@@ -463,7 +603,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Bluebeam PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -485,18 +625,18 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Bluebeam PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
-OutputVariantName1=[No Variations]
+OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType2=Drill
 OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
-OutputVariantName2=[No Variations]
+OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType3=Final
@@ -513,7 +653,7 @@ OutputDefault4=0
 OutputType5=Mask
 OutputName5=Solder/Paste Mask Prints
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=NC Drill
@@ -529,7 +669,7 @@ OutputDefault7=0
 OutputType8=Plane
 OutputName8=Power-Plane Prints
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType9=Test Points
@@ -546,18 +686,18 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 OutputType11=Gerber X2
 OutputName11=Gerber X2 Files
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
 OutputType12=IPC2581
 OutputName12=IPC-2581 Files
 OutputDocumentPath12=
-OutputVariantName12=[No Variations]
+OutputVariantName12=
 OutputDefault12=0
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Bluebeam PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -618,7 +758,7 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Bluebeam PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -726,7 +866,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Bluebeam PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -770,7 +910,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Bluebeam PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=ExportSTEP
 OutputName1=Export STEP
@@ -1198,64 +1338,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=chess_module.SchLib
-ComponentDesignItemID0=EAST1616RGBA2
-ComponentSymbolReference0=EAST1616RGBA2
+ComponentLibraryIdentifier0=ICs.SchLib
+ComponentDesignItemID0=CP2102N-A02-GQFN28R
+ComponentSymbolReference0=CP2102N-A02-GQFN28R
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=chess_module.SchLib
-ComponentDesignItemID1=ERJ-3GEYJ910V
-ComponentSymbolReference1=ERJ-3GEYJ910V
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=chess_module.SchLib
-ComponentDesignItemID2=RMCF0805JT510R
-ComponentSymbolReference2=RMCF0805JT510R
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=chess_module.SchLib
-ComponentDesignItemID3=RNCP0603FTD150R
-ComponentSymbolReference3=RNCP0603FTD150R
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=chess_module.SchLib
-ComponentDesignItemID4=RNCP0805FTD10K0
-ComponentSymbolReference4=RNCP0805FTD10K0
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=chess_module.SchLib
-ComponentDesignItemID5=TCA9535PWR
-ComponentSymbolReference5=TCA9535PWR
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=chess_module.SchLib
-ComponentDesignItemID6=TLV4961-1M
-ComponentSymbolReference6=TLV4961-1M
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Connectors.SchLib
-ComponentDesignItemID7=CONN_HEADER_MALE_1x5
-ComponentSymbolReference7=CONN_HEADER_MALE_1x5
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=ece315-2018-fall.SchLib
-ComponentDesignItemID8=MHOLE_2_55MM
-ComponentSymbolReference8=MHOLE_2_55MM
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1269,123 +1361,39 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Arrow_Electronics-Purchase-URL
+ParameterName0=Category
 ParameterUpdate0=1
-ParameterName1=Availability
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=BuyPart
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Color
+ParameterName3=ComponentLink1Description
 ParameterUpdate3=1
-ParameterName4=Comment
+ParameterName4=ComponentLink1URL
 ParameterUpdate4=1
-ParameterName5=Component Kind
+ParameterName5=Description
 ParameterUpdate5=1
-ParameterName6=ComponentLink1Description
+ParameterName6=Library Reference
 ParameterUpdate6=1
-ParameterName7=ComponentLink1URL
+ParameterName7=Manufacturer 1
 ParameterUpdate7=1
-ParameterName8=ComponentLink2Description
+ParameterName8=Manufacturer Part Number 1
 ParameterUpdate8=1
-ParameterName9=ComponentLink2URL
+ParameterName9=Pricing 1
 ParameterUpdate9=1
-ParameterName10=ComponentLink3Description
+ParameterName10=RoHS
 ParameterUpdate10=1
-ParameterName11=ComponentLink3URL
+ParameterName11=Stock 1
 ParameterUpdate11=1
-ParameterName12=Connector Type
+ParameterName12=Supplier 1
 ParameterUpdate12=1
-ParameterName13=Contact Mating Length
+ParameterName13=Supplier Part Number 1
 ParameterUpdate13=1
-ParameterName14=Contact Plating
-ParameterUpdate14=1
-ParameterName15=Description
-ParameterUpdate15=1
-ParameterName16=Digi-Key_Part_Number
-ParameterUpdate16=1
-ParameterName17=Digi-Key_Purchase_URL
-ParameterUpdate17=1
-ParameterName18=DigiKey-Purchase-URL
-ParameterUpdate18=1
-ParameterName19=Library Reference
-ParameterUpdate19=1
-ParameterName20=Manufacturer 1
-ParameterUpdate20=1
-ParameterName21=Manufacturer Part Number
-ParameterUpdate21=1
-ParameterName22=Manufacturer Part Number 1
-ParameterUpdate22=1
-ParameterName23=MF
-ParameterUpdate23=1
-ParameterName24=Mount
-ParameterUpdate24=1
-ParameterName25=Mouser-Purchase-URL
-ParameterUpdate25=1
-ParameterName26=MP
-ParameterUpdate26=1
-ParameterName27=Number of Positions
-ParameterUpdate27=1
-ParameterName28=Number of Rows
-ParameterUpdate28=1
-ParameterName29=Package
-ParameterUpdate29=1
-ParameterName30=Package Quantity
-ParameterUpdate30=1
-ParameterName31=Packaging
-ParameterUpdate31=1
-ParameterName32=Pitch
-ParameterUpdate32=1
-ParameterName33=Price
-ParameterUpdate33=1
-ParameterName34=Pricing 1
-ParameterUpdate34=1
-ParameterName35=RoHS
-ParameterUpdate35=1
-ParameterName36=SnapEDA_Link
-ParameterUpdate36=1
-ParameterName37=Stock 1
-ParameterUpdate37=1
-ParameterName38=Supplier 1
-ParameterUpdate38=1
-ParameterName39=Supplier Part Number 1
-ParameterUpdate39=1
-ParameterName40=Termination
-ParameterUpdate40=1
-ParameterName41=Texas_Instruments-Purchase-URL
-ParameterUpdate41=1
-ParameterName42=Usage
-ParameterUpdate42=1
-ParameterName43=Value
-ParameterUpdate43=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=EAST1616RGBA2
+ModelName0=QFN50P500X500X100-29N
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=HDR1X5
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=MHOLE_2_55MM
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=RESC1508X50N
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=RESC1608X55N
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=RESC2012X60N
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=RESC2012X65N
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=SOP65P640X120-24N
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=SOT95P245X110-3N
-ModelUpdate8=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1394,13 +1402,14 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=3.3V_ACC|NetColor=$00A6D07C
-Net2=NetName=3.3V_CT|NetColor=$000083FD
-Net3=NetName=3.3V_MCU|NetColor=$0001F1FD
-Net4=NetName=3.3V_REG|NetColor=$006E6EFF
-Net5=NetName=3.3V_Temp|NetColor=$00DB208A
-Net6=NetName=3.3V_USB|NetColor=$005C8517
-Net7=NetName=5.0V|NetColor=$00164FDE
+Net1=NetName=3.3V|NetColor=$00FF6EFF
+Net2=NetName=3.3V_ACC|NetColor=$00A6D07C
+Net3=NetName=3.3V_CT|NetColor=$000083FD
+Net4=NetName=3.3V_MCU|NetColor=$0001F1FD
+Net5=NetName=3.3V_REG|NetColor=$006E6EFF
+Net6=NetName=3.3V_Temp|NetColor=$00DB208A
+Net7=NetName=3.3V_USB|NetColor=$005C8517
+Net8=NetName=5.0V|NetColor=$00164FDE
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
