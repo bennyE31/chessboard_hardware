@@ -320,10 +320,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNTQWWSO
 
-[GeneratedDocument1]
-DocumentPath=Output\BOM\Bill of Materials-ECE453-F22-MCU.xlsx
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=..\Altium Base Structure\Libraries\*.*
 IncludeSubFolders=1
