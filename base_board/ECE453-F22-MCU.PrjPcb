@@ -235,6 +235,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RQYQPPRE
 
+[GeneratedDocument1]
+DocumentPath=Output\Design Rule Check - base-board.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\Altium Base Structure\Libraries\*.*
 IncludeSubFolders=1
